@@ -25,7 +25,7 @@
 
 ---
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5iddesh&repo=taskTracker)](https://github.com/5iddesh/taskTracker)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5iddesh&repo=add-to-cart)](https://github.com/5iddesh/userSearch)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5iddesh&repo=userSearch)](https://github.com/5iddesh/userSearch)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=webphp )](https://github.com/Ranaviveksingh/webphp)      
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=calculator )](https://github.com/Ranaviveksingh/calculator)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=ruby-toy-app )](https://github.com/Ranaviveksingh/cruby-toy-app)
 
